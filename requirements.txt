@@ -12,7 +12,7 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 astroid==2.14.2
-astropy==5.1
+astropy==4.3.1
 asttokens==2.0.5
 async-timeout==4.0.2
 atomicwrites==1.4.0
@@ -318,7 +318,7 @@ Scrapy==2.8.0
 seaborn==0.12.2
 Send2Trash==1.8.0
 service-identity==18.1.0
-setuptools==68.0.0
+setuptools>=67.0.0
 shellingham==1.5.4
 sip==6.6.2
 six==1.16.0
